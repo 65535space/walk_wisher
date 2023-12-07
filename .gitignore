@@ -43,14 +43,3 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-# iOS
-**/ios/**
-
-# windows
-**/windows/**
-
-# linux
-**/linux/**
-
-# macos
-**/macos/**
