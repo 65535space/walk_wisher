@@ -45,3 +45,12 @@ app.*.map.json
 
 # iOS
 **/ios/**
+
+# windows
+**/windows/**
+
+# linux
+**/linux/**
+
+# macos
+**/macos/**
