@@ -1,4 +1,4 @@
-package com.example.walk_wisher
+package com.wisher.walk
 
 import io.flutter.embedding.android.FlutterActivity
 
