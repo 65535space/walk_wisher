@@ -44,4 +44,11 @@ app.*.map.json
 /android/app/release
 
 #linux plugin
-linux\flutter\ephemeral
+linux/flutter/ephemeral
+linux/flutter/generated
+
+#generatefile
+linux/flutter/generated_plugin_registrant.cc
+linux/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
