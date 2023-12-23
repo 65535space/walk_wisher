@@ -1,11 +1,14 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="walk_wisher">
+    package="com.wisher.walk.MainActivity">
     <application
         android:label="walk_wisher"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
-        <meta-data android:name="com.wisher.walk.MainActivity"
-               android:value="AIzaSyAIoloK6v7LnQgHggpfrTXoOdX64CxsoNY"/>
+        
+        <!--GCPkey-->
+        <meta-data android:name="com.google.android.geo.API_KEY"
+            android:value=""/>
+
         <activity
             android:name="com.wisher.walk.MainActivity"
             android:exported="true"
