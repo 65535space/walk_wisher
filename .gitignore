@@ -54,9 +54,6 @@ macos/Flutter/GeneratedPluginRegistrant.swift
 linux/flutter/generated_plugins.cmake
 linux/flutter/generated_plugin_registrant.cc
 linux/flutter/generated_plugin_registrant.h
-pubspec.lock
-pubspec.yaml
-
 
 #build file for linux
 linux/my_application.cc
